@@ -1,0 +1,19 @@
+{
+  "name": "cmpe281",
+  "version": "1.0.0",
+  "description": "final exam code",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jayakirtani@github.com/jayakirtani/cmpe281.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayakirtani/cmpe281/issues"
+  },
+  "homepage": "https://github.com/jayakirtani/cmpe281#readme"
+}
