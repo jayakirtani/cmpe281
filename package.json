@@ -2,14 +2,15 @@
   "name": "cmpe281",
   "version": "1.0.0",
   "description": "final exam code",
-  "main": "hello.js",
+  "main": "sample.js",
   "scripts": {
-    "start" : "node hello.js",
+    "start": "node sample.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-      "express": "^4.13.4"
-      },
+    "express": "^4.13.4",
+    "mongodb": "^2.1.19"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://jayakirtani@github.com/jayakirtani/cmpe281.git"
